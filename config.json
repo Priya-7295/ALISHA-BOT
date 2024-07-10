@@ -20,7 +20,8 @@
     },
     "DASHBOARD": false,
     "commandDisabled": [
-        "mông.js"
+        "mông.js",
+        "cướp.js"
     ],
     "eventDisabled": [],
     "EMAIL": "kttldev@gmail.com",
