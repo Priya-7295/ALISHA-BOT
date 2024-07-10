@@ -1,4 +1,4 @@
-let urls = require('./../../includes/data/vdgai.json');
+let urls = require('./../../includes/data/gai.json');
 
 const axios = require("axios");
 const fs = require("fs");
