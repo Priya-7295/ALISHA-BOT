@@ -1,9 +1,9 @@
 {
     "account_number": "623448",
     "uid": "100047935953249",
-    "balance": "40804",
+    "balance": "41212",
     "created_at": 1720357760630,
-    "debt": "130754154",
+    "debt": "137291861",
     "count_debt": 2,
     "status": 0,
     "history": [
@@ -96,8 +96,8 @@
     "settings": {},
     "expired_ban": {},
     "interest_period": {
-        "balance": 1720617880992,
-        "debt": 1720608265721
+        "balance": 1720705594699,
+        "debt": 1720622794716
     },
     "pass": "244",
     "timestamp_due_repay": 1720964121085
