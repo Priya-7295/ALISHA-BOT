@@ -14,7 +14,7 @@ module.exports = (data, option) => {
       console.log(coloredData);
       break;
     default:
-      coloredData = gradient('#ed3491', '#cb34ed', '#347bed', '#deed34').multiline('[ Niiozic ] - ' + data);
+      coloredData = gradient('#ed3491', '#cb34ed', '#347bed', '#deed34').multiline('[ Nino ] - ' + data);
       console.log(chalk.bold(coloredData));
       break;
   }
@@ -33,7 +33,7 @@ module.exports.loader = (data, option) => {
       console.log(coloredData);
       break;
     default:
-      coloredData = gradient('#ed3491', '#cb34ed', '#347bed','#3366FF' , '#FF3366','#0000FF' , '#00DD00').multiline('[ Niiozic ] - ' + data);
+      coloredData = gradient('#ed3491', '#cb34ed', '#347bed','#3366FF' , '#FF3366','#0000FF' , '#00DD00').multiline('[ Nino ] - ' + data);
       console.log(chalk.bold(coloredData));
       break;
   }

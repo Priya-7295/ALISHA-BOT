@@ -5,5 +5,5 @@
 ### 🌐 Facebook: https://www.facebook.com/wioriz
 ### ✉️ Gmail: kttldev@gmail.com
 ### ⚠️ error please contact me
-### Nếu lỗi canvas thì ghi lệnh 'npm install canvas --build-from-source'
+### Nếu lỗi canvas thì hãy thử 'npm install canvas --build-from-source'
 ### Còn được hay không thì tôi chịu:)
