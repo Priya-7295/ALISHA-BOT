@@ -1,15 +1,24 @@
 {
     "account_number": "952267",
     "uid": "100095248502365",
-    "balance": "0",
+    "balance": "900000",
     "created_at": 1720391497589,
     "debt": "0",
     "count_debt": 0,
     "status": 0,
-    "history": [],
+    "history": [
+        {
+            "type": "send",
+            "amount": "1000000",
+            "author": "100095248502365",
+            "time": 1720640649132
+        }
+    ],
     "logins": [],
     "settings": {},
     "expired_ban": {},
-    "interest_period": {},
+    "interest_period": {
+        "balance": 1720727050016
+    },
     "pass": "014"
 }

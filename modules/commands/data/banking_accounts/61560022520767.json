@@ -1,7 +1,7 @@
 {
     "account_number": "612229",
     "uid": "61560022520767",
-    "balance": "0",
+    "balance": "10099938389999899",
     "created_at": 1720471031897,
     "debt": "0",
     "count_debt": 0,
@@ -19,13 +19,19 @@
             "amount": "10000000000000000",
             "author": "61560022520767",
             "time": 1720472391986
+        },
+        {
+            "type": "send",
+            "amount": "9999938999999900",
+            "author": "61560022520767",
+            "time": 1720640398321
         }
     ],
     "logins": [],
     "settings": {},
     "expired_ban": {},
     "interest_period": {
-        "balance": 1720557617352
+        "balance": 1720726798808
     },
     "pass": "763"
 }
