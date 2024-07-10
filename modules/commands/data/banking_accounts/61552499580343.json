@@ -1,0 +1,37 @@
+{
+    "account_number": "380241",
+    "uid": "61552499580343",
+    "balance": "0",
+    "created_at": 1698230253005,
+    "debt": "15513282158",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000000",
+            "author": "61552499580343",
+            "time": 1698230258165
+        },
+        {
+            "type": "pay",
+            "amount": "10000000000",
+            "content": "Bank",
+            "author": "61552499580343",
+            "time": 1698233301782,
+            "to": "876131"
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1722462317815,
+        "reason": "Qua 7 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1698316658479,
+        "debt": 1719873917817
+    },
+    "pass": "630",
+    "timestamp_due_repay": 1718543872745
+}

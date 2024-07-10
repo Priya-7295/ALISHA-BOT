@@ -1,0 +1,51 @@
+{
+    "account_number": "0",
+    "uid": "100080629389098",
+    "balance": "4507300120515",
+    "created_at": 1698233192263,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "receive",
+            "amount": "10000000000",
+            "content": "Bank",
+            "time": 1698233301782,
+            "from": "380241"
+        },
+        {
+            "type": "setstk",
+            "stk": "0",
+            "author": "100080629389098",
+            "time": 1698233580020
+        },
+        {
+            "type": "send",
+            "amount": "999999999999",
+            "author": "100080629389098",
+            "time": 1698233636379
+        },
+        {
+            "type": "receive",
+            "amount": "999999999999",
+            "content": ".",
+            "time": 1698233731815,
+            "from": "0"
+        },
+        {
+            "type": "receive",
+            "amount": "1999999999998",
+            "content": ".",
+            "time": 1698233828087,
+            "from": "0"
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1720657214190
+    },
+    "pass": "669"
+}

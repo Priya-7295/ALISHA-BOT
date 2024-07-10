@@ -1,0 +1,244 @@
+{
+    "account_number": "5210082008",
+    "uid": "100016789032731",
+    "balance": "0",
+    "created_at": 1698167061040,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "receive",
+            "amount": "100000000",
+            "content": "Mua script browser v4",
+            "time": 1698167223148,
+            "from": "8888999999"
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100016789032731",
+            "time": 1698167316499
+        },
+        {
+            "type": "withdraw",
+            "amount": "50000000",
+            "author": "100016789032731",
+            "time": 1698167672701
+        },
+        {
+            "type": "send",
+            "amount": "50000000",
+            "author": "100016789032731",
+            "time": 1698167737054
+        },
+        {
+            "type": "send",
+            "amount": "50000000",
+            "author": "100016789032731",
+            "time": 1698167815240
+        },
+        {
+            "type": "withdraw",
+            "amount": "40000000",
+            "author": "100016789032731",
+            "time": 1698167886296
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000000",
+            "author": "100016789032731",
+            "time": 1698168065440
+        },
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100016789032731",
+            "time": 1698168165715
+        },
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100016789032731",
+            "time": 1698168220046
+        },
+        {
+            "type": "send",
+            "amount": "100000000",
+            "author": "100016789032731",
+            "time": 1698168283894
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000000",
+            "author": "100016789032731",
+            "time": 1698168316418
+        },
+        {
+            "type": "send",
+            "amount": "20000000",
+            "author": "100016789032731",
+            "time": 1698168366469
+        },
+        {
+            "type": "send",
+            "amount": "180000000",
+            "author": "100016789032731",
+            "time": 1698168380361
+        },
+        {
+            "type": "withdraw",
+            "amount": "400000000",
+            "author": "100016789032731",
+            "time": 1698168547311
+        },
+        {
+            "type": "receive",
+            "amount": "10000000000",
+            "content": "Send t browser v4",
+            "time": 1698168651330,
+            "from": "8888999999"
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000000",
+            "author": "100016789032731",
+            "time": 1698168663657
+        },
+        {
+            "type": "send",
+            "amount": "20000000000",
+            "author": "100016789032731",
+            "time": 1698168705575
+        },
+        {
+            "type": "withdraw",
+            "amount": "5000000000",
+            "author": "100016789032731",
+            "time": 1698168719382
+        },
+        {
+            "type": "send",
+            "amount": "5000000000",
+            "author": "100016789032731",
+            "time": 1698168820794
+        },
+        {
+            "type": "withdraw",
+            "amount": "20000000000",
+            "author": "100016789032731",
+            "time": 1698168933151
+        },
+        {
+            "type": "receive",
+            "amount": "1000000000",
+            "content": "",
+            "time": 1698177635942,
+            "from": "1"
+        },
+        {
+            "type": "receive",
+            "amount": "100000000000",
+            "content": ".",
+            "time": 1698178063756,
+            "from": "1"
+        },
+        {
+            "type": "withdraw",
+            "amount": "101000000000",
+            "author": "100016789032731",
+            "time": 1698178551359
+        },
+        {
+            "type": "send",
+            "amount": "102000000000",
+            "author": "100016789032731",
+            "time": 1698178704962
+        },
+        {
+            "type": "send",
+            "amount": "150000000000",
+            "author": "100016789032731",
+            "time": 1698178804060
+        },
+        {
+            "type": "withdraw",
+            "amount": "252000000000",
+            "author": "100016789032731",
+            "time": 1698186784241
+        },
+        {
+            "type": "receive",
+            "amount": "992929292929299292929",
+            "content": "Lặc cộc",
+            "time": 1698186960229,
+            "from": "1"
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000000",
+            "author": "100016789032731",
+            "time": 1698186980881
+        },
+        {
+            "type": "withdraw",
+            "amount": "992929292929199292929",
+            "author": "100016789032731",
+            "time": 1698187113631
+        },
+        {
+            "type": "borrow",
+            "amount": "10000000000",
+            "author": "100016789032731",
+            "time": 1698230347488
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000000",
+            "author": "100016789032731",
+            "time": 1698230370215
+        },
+        {
+            "type": "send",
+            "amount": "999999999999999",
+            "author": "100016789032731",
+            "time": 1698233557862
+        },
+        {
+            "type": "repay",
+            "amount": "10000000000",
+            "author": "100016789032731",
+            "time": 1698233578025
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000000000",
+            "author": "100016789032731",
+            "time": 1698233705546
+        },
+        {
+            "type": "setstk",
+            "stk": "5210082008",
+            "author": "100016789032731",
+            "time": 1698233745801
+        },
+        {
+            "type": "withdraw",
+            "amount": "999879999999999",
+            "author": "100016789032731",
+            "time": 1698233788823
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1723123075528,
+        "reason": "Qua 7 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1698253623370,
+        "debt": 1698233947942
+    },
+    "pass": "nguyentriloc",
+    "timestamp_due_repay": 1698835147488
+}

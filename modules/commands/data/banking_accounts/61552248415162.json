@@ -1,0 +1,43 @@
+{
+    "account_number": "791637",
+    "uid": "61552248415162",
+    "balance": "0",
+    "created_at": 1698229347139,
+    "debt": "15513282158",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000000",
+            "author": "61552248415162",
+            "time": 1698229371705
+        },
+        {
+            "type": "borrow",
+            "amount": "9000000000",
+            "author": "61552248415162",
+            "time": 1698229450628
+        },
+        {
+            "type": "pay",
+            "amount": "10000000000",
+            "content": "O",
+            "author": "61552248415162",
+            "time": 1698229495181,
+            "to": "999999"
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1722462317811,
+        "reason": "Qua 7 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1698315771790,
+        "debt": 1719873917814
+    },
+    "pass": "839",
+    "timestamp_due_repay": 1718543872740
+}

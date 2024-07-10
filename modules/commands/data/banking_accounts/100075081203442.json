@@ -1,0 +1,32 @@
+{
+    "account_number": "109698",
+    "uid": "100075081203442",
+    "balance": "2000000",
+    "created_at": 1720572053163,
+    "debt": "3102653",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100075081203442",
+            "time": 1720572155999
+        },
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100075081203442",
+            "time": 1720572285808
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1720658556820,
+        "debt": 1720608265729
+    },
+    "pass": "357",
+    "timestamp_due_repay": 1721176955999
+}

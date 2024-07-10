@@ -1,0 +1,35 @@
+{
+    "account_number": "743247",
+    "uid": "100078686498501",
+    "balance": "0",
+    "created_at": 1698230606012,
+    "debt": "14774554437",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000000",
+            "author": "100078686498501",
+            "time": 1698230660872
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000000",
+            "author": "100078686498501",
+            "time": 1698230792320
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1722462317744,
+        "reason": "Qua 7 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1698317061779,
+        "debt": 1719873917793
+    },
+    "pass": "627",
+    "timestamp_due_repay": 1718543872546
+}

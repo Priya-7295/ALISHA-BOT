@@ -1,0 +1,125 @@
+{
+    "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "👎"
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 1476564.7540581778,
+    "leave": {
+        "status": true,
+        "number": 5
+    },
+    "DASHBOARD": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "kttldev@gmail.com",
+    "PASSWORD": "nino2024",
+    "OTPKEY": "",
+    "ACCESSTOKEN": "EAAD6V7os0gcBO4cOsbqiEgZAooKkhkQWOKUQC5HtLb2hSMqTmJPHfzvhZAHZA7bHPZBjKLfTGbKRSeASWA4XDrZChbZCLGxTtURy5OHhL8sxkVgcMKEqrDA2toG2PdzIFtpFbZBlZCQwzRGNbjPaoP9rByzzGKvJkOdAwlClIkoMP2NIMFitsLb8SOMtagZDZD",
+    "FACEBOOK_ADMIN": "fb.com/wioriz",
+    "BOTNAME": "Wioriz",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100082166588573",
+        "61561792166105",
+        "61561511715916",
+        "6156047455724",
+        "61561519282745",
+        ""
+    ],
+    "NDH": [
+        "100083205727767",
+        "100082166588573",
+        "61560474557247"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "3.6.0",
+    "bot": {
+        "APIKEY": "LUVMIN"
+    },
+    "daily": {
+        "cooldownTime": 8640000000,
+        "rewardCoin": 2000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBZosAoab1UH8ze1zFegz6wnppkf-quu7c"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "cave": {
+        "cooldownTime": 1200000
+    },
+    "fbshare": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "spamcmt": {
+        "spamDelay": 1.5
+    },
+    "subnau": {
+        "APIKEY": ""
+    },
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    }
+}

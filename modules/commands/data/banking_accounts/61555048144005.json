@@ -1,0 +1,38 @@
+{
+    "account_number": "652716",
+    "uid": "61555048144005",
+    "balance": "1020100000",
+    "created_at": 1720362179953,
+    "debt": "17789700739",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "61555048144005",
+            "time": 1720362197637
+        },
+        {
+            "type": "repay",
+            "amount": "1000000",
+            "author": "61555048144005",
+            "time": 1720363876657
+        },
+        {
+            "type": "borrow",
+            "amount": "1000000000",
+            "author": "61555048144005",
+            "time": 1720363914462
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1720637822938,
+        "debt": 1720608265778
+    },
+    "pass": "979",
+    "timestamp_due_repay": 1720966997637
+}
