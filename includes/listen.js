@@ -273,7 +273,7 @@ module.exports = function ({ api, models }) {
     //========= Send event to handle need =========//
     /////////////////////////////////////////////////
 
-    return async (event) => { let form_mm_dd_yyyy = (input = '', split = input.split('/'))=>`${split[1]}/${split[0]}/${split[2]}`;
+    return async (event) => { /*let form_mm_dd_yyyy = (input = '', split = input.split('/'))=>`${split[1]}/${split[0]}/${split[2]}`;
  let prefix = (global.data.threadData.get(event.threadID) || {}).PREFIX||global.config.PREFIX;
 	  let send = (msg, callback)=>api.sendMessage(msg, event.threadID, callback, event.messageID);
 	  if ((event.body||'').startsWith(prefix) && event.senderID != api.getCurrentUserID() && !global.config.ADMINBOT.includes(event.senderID)) {
@@ -283,7 +283,7 @@ module.exports = function ({ api, models }) {
 	  
 	  if (!find_thuebot)return send(`⛔ Nhóm của bạn chưa kích hoạt key, Vui lòng kích hoạt key để tiếp tục sử dụng.\n\nLấy key liên hệ Admin: Hùng Deeptry\nhttps://www.facebook.com/wioriz`);
 	  if (new Date(form_mm_dd_yyyy(find_thuebot.time_end)).getTime() <= Date.now()+25200000)return send(`⚠️ Nhóm của bạn đã hết hạn key, Vui lòng kích hoạt key mới để tiếp tục sử dụng.\n\nLiên hệ Admin: Hùng Deeptry\nhttps://www.facebook.com/wioriz`);
-	  };
+	  };*/
         if (event.type == "change_thread_image") api.sendMessage(`» [ 𝐂𝐀̣̂𝐏 𝐍𝐇𝐀̣̂𝐓 𝐍𝐇𝐎́𝐌 ]\n»  ${event.snippet}`, event.threadID);
         switch (event.type) {
             case "message":

@@ -1,7 +1,7 @@
 {
     "account_number": "0",
     "uid": "100080629389098",
-    "balance": "4507300120515",
+    "balance": "4552373121720",
     "created_at": 1698233192263,
     "debt": "0",
     "count_debt": 0,
@@ -45,7 +45,7 @@
     "settings": {},
     "expired_ban": {},
     "interest_period": {
-        "balance": 1720657214190
+        "balance": 1720743614659
     },
     "pass": "669"
 }

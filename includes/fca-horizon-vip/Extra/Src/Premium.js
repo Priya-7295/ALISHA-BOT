@@ -20,7 +20,7 @@ module.exports = async function(SessionID) {
                 Database(true).set('PremiumKey', String(global.Fca.Require.FastConfig.PreKey));
                 Database(true).set('UserName', userName);
                 process.env.HalzionVersion = 1973
-                Text = "Bạn Đang Sài Phiên Bản: Premium Access";
+                Text = "Bạn Đang Sài FCA HRZ Phiên Bản Premium Access Được Mod Bởi Wioriz";
             }
             catch (error) {
                 Text = "Lỗi Kết Nối";
