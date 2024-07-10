@@ -19,7 +19,9 @@
         "number": 5
     },
     "DASHBOARD": false,
-    "commandDisabled": [],
+    "commandDisabled": [
+        "mông.js"
+    ],
     "eventDisabled": [],
     "EMAIL": "kttldev@gmail.com",
     "PASSWORD": "nino2024",
