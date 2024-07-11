@@ -1512,7 +1512,7 @@ function listenMqtt(defaultFuncs, api, ctx, globalCallback) {
             }        
         }
         if (process.env.OnStatus == undefined) {
-            global.Fca.Require.logger.Normal("Bạn Đang Sài Phiên Bản: Premium Access");
+            global.Fca.Require.logger.Normal("Bạn Đang Sài FCA HRZ Phiên Bản Premium Access Được Wioriz Mod lại");
             if (Number(global.Fca.Require.FastConfig.AutoRestartMinutes) == 0) {
                 // something
             }

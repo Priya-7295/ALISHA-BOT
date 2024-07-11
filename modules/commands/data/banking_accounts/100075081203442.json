@@ -1,9 +1,9 @@
 {
     "account_number": "109698",
     "uid": "100075081203442",
-    "balance": "2020000",
+    "balance": "0",
     "created_at": 1720572053163,
-    "debt": "4813228",
+    "debt": "6450183",
     "count_debt": 2,
     "status": 0,
     "history": [
@@ -18,6 +18,30 @@
             "amount": "1000000",
             "author": "100075081203442",
             "time": 1720572285808
+        },
+        {
+            "type": "withdraw",
+            "amount": "1000000",
+            "author": "100075081203442",
+            "time": 1720669035304
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000",
+            "author": "100075081203442",
+            "time": 1720669225596
+        },
+        {
+            "type": "withdraw",
+            "amount": "200000",
+            "author": "100075081203442",
+            "time": 1720669268138
+        },
+        {
+            "type": "withdraw",
+            "amount": "720000",
+            "author": "100075081203442",
+            "time": 1720669494290
         }
     ],
     "logins": [],
@@ -25,7 +49,7 @@
     "expired_ban": {},
     "interest_period": {
         "balance": 1720744956965,
-        "debt": 1720665082606
+        "debt": 1720686685490
     },
     "pass": "357",
     "timestamp_due_repay": 1721176955999

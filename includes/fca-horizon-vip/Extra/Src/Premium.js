@@ -20,7 +20,7 @@ module.exports = async function(SessionID) {
                 Database(true).set('PremiumKey', String(global.Fca.Require.FastConfig.PreKey));
                 Database(true).set('UserName', userName);
                 process.env.HalzionVersion = 1973
-                Text = "Bạn Đang Sài FCA HRZ Phiên Bản Premium Access Được Mod Bởi Wioriz";
+                Text = "Bạn Đang Sài FCA HRZ Phiên Bản Premium Access Được Mod Lại Bởi Wioriz";
             }
             catch (error) {
                 Text = "Lỗi Kết Nối";
@@ -31,7 +31,7 @@ module.exports = async function(SessionID) {
                 Database(true).set('PremiumKey', String(global.Fca.Require.FastConfig.PreKey));
                 Database(true).set('UserName', userName);
                 process.env.HalzionVersion = 1973
-                Text = "Bạn Đang Sài Phiên Bản: Premium Access";
+                Text = "Bạn Đang Sài FCA HRZ Phiên Bản Premium Access Được Mod Lại Bởi Wioriz";
             }
             catch (error) {
                 Text = "Lỗi Kết Nối";
@@ -42,8 +42,8 @@ module.exports = async function(SessionID) {
                 Database(true).set('Premium', true);
                 Database(true).set('PremiumKey', String(global.Fca.Require.FastConfig.PreKey));
                 Database(true).set('UserName', userName);
-                process.env.HalzionVersion = 1973
-                Text = "Bạn Đang Sài Phiên Bản: Premium Access";
+                process.env.HalzionVersion = Bạn Đang 1973
+                Text = "Bạn Đang Sài FCA HRZ Phiên Bản Premium Access Được Mod Lại Bởi Wioriz";
             }
             catch (error) {
                 Text = "Lỗi Kết Nối";
@@ -55,7 +55,7 @@ module.exports = async function(SessionID) {
             Database(true).set('PremiumKey', String(global.Fca.Require.FastConfig.PreKey));
             Database(true).set('UserName', userName);
             process.env.HalzionVersion = 1973
-            Text = "Bạn Đang Sài Phiên Bản: Premium Access";
+            Text = "Bạn Đang Sài FCA HRZ Phiên Bản Premium Access Được Mod Lại Bởi Wioriz";
         }
         catch (error) {
             Text = "Lỗi Kết Nối";

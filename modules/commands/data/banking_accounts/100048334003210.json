@@ -6,10 +6,27 @@
     "debt": "0",
     "count_debt": 0,
     "status": 0,
-    "history": [],
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100048334003210",
+            "time": 1720669461479
+        },
+        {
+            "type": "repay",
+            "amount": "10000000",
+            "author": "100048334003210",
+            "time": 1720669484409
+        }
+    ],
     "logins": [],
     "settings": {},
     "expired_ban": {},
-    "interest_period": {},
-    "pass": "650"
+    "interest_period": {
+        "balance": 1720755862351,
+        "debt": 1720673062351
+    },
+    "pass": "650",
+    "timestamp_due_repay": 1721274261479
 }

@@ -3,7 +3,7 @@
     "uid": "100047935953249",
     "balance": "41212",
     "created_at": 1720357760630,
-    "debt": "202842603",
+    "debt": "271828485",
     "count_debt": 2,
     "status": 0,
     "history": [
@@ -97,7 +97,7 @@
     "expired_ban": {},
     "interest_period": {
         "balance": 1720705594699,
-        "debt": 1720665082598
+        "debt": 1720686685488
     },
     "pass": "244",
     "timestamp_due_repay": 1720964121085
