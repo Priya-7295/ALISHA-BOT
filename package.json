@@ -8,7 +8,7 @@
         "npm": "7.0.0"
     },
     "scripts": {
-        "start": "node index.js",
+        "start": "node mirai.js",
         "login": "node login",
         "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
     },
