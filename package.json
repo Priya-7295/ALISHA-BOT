@@ -4,7 +4,7 @@
     "description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
     "main": "mirai.js",
     "engines": {
-        "node": "18.x",
+        "node": "16.x",
         "npm": "7.0.0"
     },
     "scripts": {
