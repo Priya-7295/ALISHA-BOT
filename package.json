@@ -16,12 +16,12 @@
     "license": "GPL-3.0",
     "dependencies": {
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
-        "@miraipr0ject/assets": "^1.0.0",
+        "@miraipr0ject/assets": "^1.0.0", // Provide specific version if available
         "axios": "^1.7.2",
         "blubird": "^0.0.1-security",
         "bluebird": "^3.7.2",
         "body-parser": "^1.20.0",
-        "caesar-salad": "^1.0.0",
+        "caesar-salad": "^1.0.0", // Provide specific version if available
         "canvas": "^2.11.2",
         "chalk": "^4.1.2",
         "chalkercli": "^1.6.4",
@@ -30,7 +30,6 @@
         "child_process": "^1.0.2",
         "cors": "^2.8.5",
         "crypto": "^1.0.1",
-        "eval": "^1.0.0",
         "express": "^4.18.2",
         "extract-zip": "^2.0.1",
         "fast-speedtest-api": "^0.3.2",
