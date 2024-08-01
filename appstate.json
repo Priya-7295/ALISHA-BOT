@@ -1,131 +1,137 @@
-module.exports.config = {
-  name: 'menu',
-  version: '1.1.1',
-  hasPermssion: 0,
-  credits: 'DC-Nam mod by Vtuan',
-  description: 'Xem danh sách nhóm lệnh, thông tin lệnh',
-  commandCategory: 'Tiện ích',
-  usages: '[...name commands|all]',
-  cooldowns: 5,
-  envConfig: {
-    autoUnsend: {status: true,timeOut: 60 }
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100094902953292%22%3A%22GV2yZ43Q%22%2C%22100095468414221%22%3A%22z8WNvd7c%22%2C%22100093583814025%22%3A%22WBxhClmw%22%2C%2261550068745926%22%3A%224jNx5iIl%22%2C%2261550578528441%22%3A%22XSR4kl81%22%2C%2261550545565961%22%3A%22RsRudEPn%22%2C%2261550588313772%22%3A%2256lQEM5D%22%2C%2261550309684164%22%3A%22Z5BY9b4j%22%2C%2261550506843378%22%3A%22jueoNggT%22%2C%2261550742091396%22%3A%22NshHgPhX%22%2C%2261550649195438%22%3A%22vukPuQI3%22%2C%2261550855287224%22%3A%22VRLOYN3H%22%2C%2261551906069685%22%3A%227n072SL9%22%2C%22100094002294717%22%3A%22o6efX8D0%22%2C%22100092390422644%22%3A%229FaFYriQ%22%2C%2261554715797122%22%3A%22ujVCpKyE%22%2C%2261556310622530%22%3A%22Vm1LGB7r%22%2C%2261552388502836%22%3A%22brn10fkm%22%2C%2261556937264193%22%3A%22RhwkGKJn%22%2C%2261552611621933%22%3A%22rlZdqI7H%22%2C%2261561088948633%22%3A%22Rqot9PmR%22%2C%22100078347756743%22%3A%224l2KA89h%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.574Z",
+        "lastAccessed": "2024-08-01T18:37:35.574Z"
+    },
+    {
+        "key": "sb",
+        "value": "ykBKZb6ExcLO1yJ3Ny8GBAr8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.574Z",
+        "lastAccessed": "2024-08-01T18:37:35.574Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.574Z",
+        "lastAccessed": "2024-08-01T18:37:35.574Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.574Z",
+        "lastAccessed": "2024-08-01T18:37:35.574Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B682x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.574Z",
+        "lastAccessed": "2024-08-01T18:37:35.574Z"
+    },
+    {
+        "key": "datr",
+        "value": "POeJZtU9jaX54EDBUgNzQaq4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.574Z",
+        "lastAccessed": "2024-08-01T18:37:35.576Z"
+    },
+    {
+        "key": "dpr",
+        "value": "3.0234789848327637",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2571%3Btimestamp%3A1721749600",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100091537573542",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "100091537573542",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x682",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
+    },
+    {
+        "key": "locale",
+        "value": "hi_IN",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
+    },
+    {
+        "key": "fr",
+        "value": "14XHTILLrhrrPDw0h.AWUGN0GHelXP8JOv4lF8pqsZL5A.Bmq9Xq..AAA.0.0.Bmq9Xq.AWUk4Epsk0U",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
+    },
+    {
+        "key": "xs",
+        "value": "8%3AZqP_TO-PXyiang%3A2%3A1722510683%3A-1%3A14373%3A%3AAcVYYOdyzNRGZ8jvBMML2X53SvfklLW_KP4WdNeUsg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101339107%3BT%3A28708957",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-08-01T18:37:35.577Z",
+        "lastAccessed": "2024-08-01T18:37:35.577Z"
     }
-  };
-const {autoUnsend = this.config.envConfig.autoUnsend} = global.config == undefined ? {}:global.config.menu == undefined ? {}: global.config.menu;
-const {compareTwoStrings,findBestMatch} = require('string-similarity');
-const { readFileSync,writeFileSync,existsSync} = require('fs-extra');
-module.exports.run = async function({ api, event, args }) {
-    const { sendMessage: send, unsendMessage: un } = api;
-    const { threadID: tid, messageID: mid, senderID: sid } = event;
-    const cmds = global.client.commands;
-    if (args.length >= 1) {
-      if (typeof cmds.get(args.join(' ')) == 'object') {
-      const body = infoCmds(cmds.get(args.join(' ')).config);
-      const msg = body;
-        return send(body, tid, mid);
-      } else {
-          if (args[0] == 'all') {
-              const data = cmds.values();
-              var txt = '🌸─── [ Toàn Bộ Lệnh ] ───🌸\n\n',
-              count = 0;
-              for (const cmd of data) txt += `${++count}. ${cmd.config.name} - ${!cmd.config.description ? "Không có mô tả!" : cmd.config.description}\n`;
-            
-              txt += `\n——————————————\n‣🙏 vui lòng dùng "🧠" để sử dụng bot. Cảm ơn\n‣ Gỡ tự động sau: ${autoUnsend.timeOut}s`
-              const msg = txt;
-              send(msg, tid, (a, b) => autoUnsend.status ?setTimeout(v1 => un(v1), 1000*autoUnsend.timeOut, b.messageID): '');
-          } else {
-              const cmdsValue = cmds.values();
-              const arrayCmds= [];
-              for (const cmd of cmdsValue) arrayCmds.push(cmd.config.name);
-              const similarly = findBestMatch(args.join(' '), arrayCmds);
-              if (similarly.bestMatch.rating >= 0.3) return send(` "${args.join(' ')}" là lệnh gần giống là "${similarly.bestMatch.target}" ?`, tid, mid);
-
-          };
-      };
-  } else {
-      const data = commandsGroup();
-      var txt = '────── [ Menu ] ──────\n\n',count = 0;
-      for (const {commandCategory,commandsName} of data) txt += `${++count}. ${commandCategory} - có ${commandsName.length} lệnh\n`;
-      txt += `\n────────────────────\n📝 Tổng số lệnh: ${cmds.size} lệnh\n🛸 Xem tất cả lệnh: menu + all\n🙏 vui lòng dùng "🧠" để sử dụng bot. Cảm ơn\n‣ Menu tự động gỡ sau: ${autoUnsend.timeOut}s\n`;
-      const msg = txt;
-      send(msg, tid, (a, b) => {
-          global.client.handleReply.push({name: this.config.name,messageID: b.messageID,author: sid,'case': 'infoGr',data});
-          if (autoUnsend.status) setTimeout(v1 => un(v1), 1000*autoUnsend.timeOut, b.messageID);
-      });
-  };
-};
-module.exports.handleReply = async function({handleReply: $,api,event}) {
-  const {sendMessage: send,unsendMessage: un} = api;
-  const {threadID: tid,messageID: mid,senderID: sid,args} = event;
-  if (sid != $.author) {
-      const msg = `Cút ra chỗ khác`;
-      return send(msg, tid, mid);
-  };
-  switch ($.case) {
-      case 'infoGr': {
-          var data = $.data[(+args[0])-1];
-          if (data == undefined) {
-              const txt = `"${args[0]}" không nằm trong số thứ tự menu`;
-              const msg = txt;
-              return send(msg, tid, mid);
-          };
-          un($.messageID);
-          var txt = '『 ' +  data.commandCategory  + ' 』\n\n',
-          count = 0;
-          for (const name of data.commandsName) txt += `${++count}. ${name}\n`;
-          txt += `\n\n➩ Reply từ 1 đến ${data.commandsName.length} để chọn\n➩ Gỡ tự động sau: ${autoUnsend.timeOut}s`;
-          const msg = txt;
-          send(msg, tid, (a, b) => {
-              global.client.handleReply.push({
-                  name: this.config.name,
-                  messageID: b.messageID,
-                  author: sid,
-                  'case': 'infoCmds',
-                  data: data.commandsName
-              });
-              if (autoUnsend.status) setTimeout(v1 => un(v1), 1000*autoUnsend.timeOut, b.messageID);
-          });
-      };
-          break;
-      case 'infoCmds': {
-          var data = global.client.commands.get($.data[(+args[0])-1]);
-          if (typeof data != 'object') {
-              const txt = `"${args[0]}" không nằm trong số thứ tự menu`;
-              const msg = txt;
-              return api.shareContact(msg,event.senderID tid, mid);
-          };
-          const {config = {}} = data || {};
-          un($.messageID);
-          const msg = infoCmds(config);
-         api.shareContact(msg,event.senderID,tid,mid);
-      };
-          break;
-      default:
-      }
-  };
-  function commandsGroup() {
-      const array = [],
-      cmds = global.client.commands.values();
-      for (const cmd of cmds) {
-          const {name, commandCategory} = cmd.config;
-          const find = array.find(i => i.commandCategory == commandCategory)
-          !find ? array.push({commandCategory,commandsName: [name]}): find.commandsName.push(name);
-      };
-      array.sort(sortCompare('commandsName'));
-      return array;
-  };
-  function infoCmds(a) {
-      return `${a.name}\n\n➜ Phiên bản : ${a.version}\n➜ Quyền hạn : ${premssionTxt(a.hasPermssion)}\n➜ Tác giả : ${a.credits}\n➜ Mô tả : ${a.description}\n➜ Thuộc nhóm : ${a.commandCategory}\n➜ Cách dùng : ${a.usages}\n➜ Thời gian chờ : ${a.cooldowns} giây\n`;
-  };
-  function premssionTxt(a) {
-      return a == 0 ? 'Thành Viên': a == 1 ? 'Quản Trị Viên Nhóm': a == 2 ? 'Người Điều Hành Bot': 'ADMINBOT';
-  };
-  function prefix(a) {
-      const tidData = global.data.threadData.get(a) || {};
-      return tidData.PREFIX || global.config.PREFIX;
-  };
-  function sortCompare(k) {
-      return function(a, b) {
-          return (a[k].length > b[k].length ? 1: a[k].length < b[k].length ? -1: 0)*-1;
-      };
-  };
+]
