@@ -16,12 +16,12 @@
     "license": "GPL-3.0",
     "dependencies": {
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
-        "@miraipr0ject/assets": "^1.0.0", // Provide specific version if available
+        "@miraipr0ject/assets": "^1.0.0",
         "axios": "^1.7.2",
         "blubird": "^0.0.1-security",
         "bluebird": "^3.7.2",
         "body-parser": "^1.20.0",
-        "caesar-salad": "^1.0.0", // Provide specific version if available
+        "caesar-salad": "^1.0.0",
         "canvas": "^2.11.2",
         "chalk": "^4.1.2",
         "chalkercli": "^1.6.4",
